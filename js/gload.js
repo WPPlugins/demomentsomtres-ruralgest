@@ -1,0 +1,1 @@
+google.load("earth", "1", {"other_params":"sensor=false"}); google.load("visualization", "1", {packages: ["columnchart"]});
